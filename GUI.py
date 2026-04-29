@@ -203,3 +203,5 @@ top_bar = canvas.create_rectangle(0,0,800,50, fill="red")
 green_center_area = canvas.create_rectangle(300,200,500,400, fill="green")
 
 bottom_bar = canvas.create_rectangle(0,600,800,550, fill="blue")
+
+# comment added by shaf
